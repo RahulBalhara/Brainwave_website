@@ -4,8 +4,6 @@ import Collaboration from './components/Collaboration';
 import Hero from './components/Hero';
 import Pricing from './components/Pricing';
 import Services from './components/Services';
-
-
 import Header from './Header';
 function App() {
   return (
