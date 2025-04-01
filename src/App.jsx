@@ -3,6 +3,7 @@ import Benefits from './components/Benefits';
 import Collaboration from './components/Collaboration';
 import Hero from './components/Hero';
 import Pricing from './components/Pricing';
+import Roadmap from './components/Roadmap';
 import Services from './components/Services';
 import Header from './Header';
 function App() {
@@ -16,6 +17,7 @@ function App() {
        <Collaboration/>
        <Services/>
        <Pricing/>
+       <Roadmap/>
        
       </div>
 
