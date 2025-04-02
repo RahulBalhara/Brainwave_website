@@ -6,6 +6,7 @@ import Pricing from './components/Pricing';
 import Roadmap from './components/Roadmap';
 import Services from './components/Services';
 import Header from './Header';
+import Footer from './components/footer';
 function App() {
   return (
     <>
@@ -18,6 +19,7 @@ function App() {
        <Services/>
        <Pricing/>
        <Roadmap/>
+       <Footer/>
        
       </div>
 
